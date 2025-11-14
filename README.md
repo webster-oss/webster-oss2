@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Webster Alencar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil+!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=24&center=true&vCenter=true&width=600&lines=Dev+Front-End+apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil+!">
 </p>
 
 ---
