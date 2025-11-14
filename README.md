@@ -1,38 +1,44 @@
+<h1 align="center">👋 Olá, eu sou o Webster Alencar</h1>
 
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil+no+GitHub!">
+</p>
+
+---
+
+## 🚀 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pelo desenvolvimento Front-End.  
+Busco minha primeira oportunidade na área, criando projetos, estudando todos os dias e evoluindo meus conhecimentos em tecnologia e desenvolvimento web.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Webster! A passionate Data Science student from Brazil.
+---
 
-  - 🌱 I’m currently studying HTML, CSS e Javascript
+## 📊 GitHub Stats
 
-  - 🔭 I am looking for my first job opportunity.
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=webster-oss&show_icons=true&theme=default" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webster-oss&layout=compact&theme=default" />
+</div>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+---
 
-  - 💬 I am 30 years old, currently living in Brazil. I'm studying HTML, CSS and Javascript
- 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+## 🐍 Animação Snake (Commits)
+> A snake será gerada automaticamente depois que você adicionar o arquivo de workflow.
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
-  </div>
+```markdown
+![Snake animation](https://github.com/webster-oss/webster-oss/blob/output/snake.svg)
