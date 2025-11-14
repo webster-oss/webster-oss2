@@ -23,4 +23,4 @@ jobs:
           author_name: github-actions
           message: Generate snake animation
           add: dist/snake.svg
-          token: ${{secrets.GITHUB_TOKEN}}
+          token:${{secrets.GITHUB_TOKEN}}
