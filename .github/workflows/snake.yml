@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Roda a cada 12 horas (00:00 e 12:00 UTC)
     cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -10,22 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # PASSO 1: FAZ O CHECKOUT DO SEU REPOSITÓRIO (CORREÇÃO DE ERRO)
       - uses: actions/checkout@v4
-
-      # PASSO 2: GERA A ANIMAÇÃO DA COBRINHA
+      
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: webster-oss
           outputs: dist/snake.svg
 
-      # PASSO 3: FAZ O COMMIT E PUSH DO ARQUIVO GERADO
       - name: Push snake
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           message: Generate snake animation
           add: dist/snake.svg
-          # Token de segurança para permitir o push (CORREÇÃO DE PERMISSÃO)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{secrets.GITHUB_TOKEN}}
