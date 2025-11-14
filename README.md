@@ -36,9 +36,3 @@ Busco minha primeira oportunidade na área, criando projetos, estudando todos os
 </div>
 
 ---
-
-## 🐍 Animação Snake (Commits)
-> A snake será gerada automaticamente depois que você adicionar o arquivo de workflow.
-
-```markdown
-![Snake animation](https://github.com/webster-oss/webster-oss/blob/output/snake.svg)
